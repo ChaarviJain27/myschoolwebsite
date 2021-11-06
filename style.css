@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+}
+
+#lamarts {
+    background: linear-gradient(#19cfbf 15%, #e7eb0c 85%);
+    height: 950px;
+    padding-top: 30px;
+}
+
+#para {
+    color: blueviolet;
+}
+
+#img {
+    height: 100;
+}
+
+ul {
+    width: 100%;
+}
+
+.fi {
+    height: 200px
+}
+
+#campus {
+    background: linear-gradient(#f2bde2 15%, #e5bdf2 85%);
+}
+
+.mynavbar {
+    z-index: 9999999999999;
+    position: sticky;
+    top: 0;
+}
+
+.swim {
+    border-radius: 10px;
+    height: 30px;
+    font-size: 20px;
+
+}
+
+.swim i{
+margin-left: 800px;
+}
+
+.te{
+    background-color: beige;
+}
